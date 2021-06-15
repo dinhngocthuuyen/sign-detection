@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sign Detection</string>
+    <string name="title_home">Real-time</string>
+    <string name="title_dashboard">Select</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_logger">Logger</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="tfe_ic_device" translatable="false">Device:</string>
+    <string-array name="tfe_ic_devices" translatable="false">
+        <item>CPU</item>
+    </string-array>
+    <string name="tfe_ic_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+</resources>
